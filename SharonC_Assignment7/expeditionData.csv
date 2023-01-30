@@ -1,0 +1,17 @@
+Expedition,Astronaut,Age,Gender,Nationality,Duration,Agency,agencyOrigin
+1,William Shepherd,72,Male,USA,141,NASA,USA
+1,Sergei Krikalev,63,Male,Russia,141,ROSCOSMOS,Russia
+1,Yuri Gidzenko,59,Male,Russia,141,ROSCOSMOS,Russia
+2,Yury Usachov,64,Male,Russia,167,ROSCOSMOS,Russia
+2,James S. Voss,72,Male,USA,167,NASA,USA
+2,Susan Helms,63,Female,USA,167,NASA,USA
+3,Frank L. Culbertson Jr.,72,Male,USA,128,NASA,USA
+3,Mikhail Tyurin,61,Male,Russia,128,ROSCOSMOS,Russia
+3,Vladimir Dezhurov,59,Male,Russia,128,ROSCOSMOS,Russia
+36,Fyodor Yurchikhin,62,Male,Russia,166,ROSCOSMOS,Russia
+36,Karen Nyberg,52,Female,USA,166,NASA,USA
+36,Luca Parmitano,45,Male,Italy,166,ESA,EU
+65,Shannon Walker,56,Female,USA,167,NASA,USA
+65,Michael Hopkins,52,Male,USA,167,NASA,USA
+65,Victor Glover,45,Male,USA,167,NASA,USA
+65,Soichi Noguchi,56,Male,Japan,167,JAXA,Japan
